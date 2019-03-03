@@ -12,8 +12,6 @@ This is a custom API Gateway practice
 
 - **Ben Tsao** - _Initial work_ - [cbtsao47](https://github.com/cbtsao47)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
