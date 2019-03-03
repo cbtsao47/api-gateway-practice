@@ -1,0 +1,26 @@
+{
+  "name": "api-gateway-practice",
+  "version": "1.0.0",
+  "description": "This is a custom API Gateway practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cbtsao47/api-gateway-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cbtsao47/api-gateway-practice/issues"
+  },
+  "homepage": "https://github.com/cbtsao47/api-gateway-practice#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  }
+}
