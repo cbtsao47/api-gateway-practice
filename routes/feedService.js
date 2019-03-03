@@ -1,6 +1,6 @@
 const express = require("express");
 const router = express.Router();
-const apiAdapter = require("./apiAdapter");
+const apiAdapter = require("../router/apiAdapter");
 
 const BASE_URL = "http://localhost:8088";
 const api = apiAdapter(BASE_URL);

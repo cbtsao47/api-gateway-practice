@@ -1,8 +1,10 @@
-//import express
+// import express
 const express = require("express");
 // starts a server with express();
 const app = express();
-const router = require("./router");
+// import router
+const router = require("./router/router");
+// uses json
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
